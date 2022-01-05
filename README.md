@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alanpadilla97
 - 👀 I’m interested in starting a career in Web Development.
-- 🌱 I’m currently learning HTML 
+- 🌱 I’m currently learning HTML - CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @alannpadilla on Instagram
 
